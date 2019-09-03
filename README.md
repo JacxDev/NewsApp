@@ -1,3 +1,18 @@
+
+App de noticias creada con React con la finalidad de practicar.
+
+Herramientas utilizadas:
+
+    - React
+    - Materialize
+    - News API 
+
+Demo: https://reactappnews.netlify.com/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
